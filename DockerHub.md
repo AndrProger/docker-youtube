@@ -1,6 +1,6 @@
 # 🐳 DockerHub: Работа с образами
 
-Ссылка на видео: [YouTube](https://github.com/AndrProger/docker-youtube)
+Ссылка на видео: [YouTube](https://youtu.be/njTKXi9LhRI)
 
 ## 📌 Описание
 
